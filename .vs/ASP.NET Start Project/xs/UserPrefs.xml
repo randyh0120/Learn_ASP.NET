@@ -1,16 +1,22 @@
-﻿<Properties StartupConfiguration="{1C4F6750-37EF-49D0-8E3F-F29DDCD154A0}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{1C4F6750-37EF-49D0-8E3F-F29DDCD154A0}|Default">
   <MonoDevelop.Ide.ItemProperties.ASP.NET_220Start_220Project PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="18" Column="10" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ASP.NET Start Project" expanded="True" selected="True">
-            <Node name="ASP.NET Start Project" expanded="True" />
+          <Node name="ASP.NET Start Project" expanded="True">
+            <Node name="ASP.NET Start Project" expanded="True">
+              <Node name="Areas" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
