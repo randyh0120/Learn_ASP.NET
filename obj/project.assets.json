@@ -5709,7 +5709,7 @@
       "outputPath": "/Users/randyhattab/Documents/Learn_ASP.NET/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/randyhattab/.config/NuGet/NuGet.Config"
+        "/Users/randyhattab/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
