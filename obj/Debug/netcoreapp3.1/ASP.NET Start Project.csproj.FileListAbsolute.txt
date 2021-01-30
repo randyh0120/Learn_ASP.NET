@@ -1,0 +1,91 @@
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/ASP.NET Start Project.StaticWebAssets.xml
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/ASP.NET Start Project.deps.json
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/ASP.NET Start Project.runtimeconfig.json
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/ASP.NET Start Project.runtimeconfig.dev.json
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/ASP.NET Start Project.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/ASP.NET Start Project.pdb
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/ASP.NET Start Project.Views.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/ASP.NET Start Project.Views.pdb
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.csprojAssemblyReference.cache
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.AssemblyInfoInputs.cache
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.AssemblyInfo.cs
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.csproj.CoreCompileInputs.cache
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.MvcApplicationPartsAssemblyInfo.cs
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.MvcApplicationPartsAssemblyInfo.cache
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.RazorAssemblyInfo.cache
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.RazorAssemblyInfo.cs
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/staticwebassets/ASP.NET Start Project.StaticWebAssets.Manifest.cache
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/staticwebassets/ASP.NET Start Project.StaticWebAssets.xml
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/scopedcss/bundle/ASP.NET Start Project.styles.css
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.TagHelpers.input.cache
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.TagHelpers.output.cache
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.RazorCoreGenerate.cache
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.RazorTargetAssemblyInfo.cache
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.RazorTargetAssemblyInfo.cs
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.Views.pdb
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.csproj.CopyComplete
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.dll
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.pdb
+/Users/randyhattab/Documents/Learn_ASP.NET/obj/Debug/netcoreapp3.1/ASP.NET Start Project.genruntimeconfig.cache
