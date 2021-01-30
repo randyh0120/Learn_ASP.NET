@@ -1,10 +1,10 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Text;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore;
 
-namespace ASP.NET_Starter.Data
+namespace ASP.NET_Start_Project.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

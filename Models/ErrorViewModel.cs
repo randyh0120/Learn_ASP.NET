@@ -1,6 +1,6 @@
 using System;
 
-namespace ASP.NET_Starter.Models
+namespace ASP.NET_Start_Project.Models
 {
     public class ErrorViewModel
     {
